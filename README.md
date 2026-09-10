@@ -45,8 +45,10 @@ Colaborador · Testing e2e · [PR #25](https://github.com/fgr-17/webapp-monorepo
 
 - **Talento Tech** — Testing QA *(en curso)*
 - **UTN** — Diplomatura en Testing de Software *(en curso)*
-- **CFT CENCO** — Técnico Nivel Superior Analista Programador *(egresado)*
-- Certificaciones: Scrum Foundation Professional Certificate (SFPC) · Coaching Vocacional · Especialista en Negociación Efectiva
+- **CFT CENCO** — Técnico Nivel Superior Analista Programador *(Egresado)*
+- **CFT IPROSEC** — Técnico Nivel Superior  en Electricidad *(Titulado)*
+- Certificaciones: Scrum Foundation Professional Certificate (SFPC)
+- Coaching Vocacional · Especialista en Negociación Efectiva en Axon Training
 
 ---
 
