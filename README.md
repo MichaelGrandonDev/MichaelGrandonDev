@@ -44,7 +44,7 @@ Colaborador · Testing e2e · [PR #25](https://github.com/fgr-17/webapp-monorepo
 ## Formación
 
 - **Talento Tech** — Testing QA *(en curso)*
-- **UTN** — Diplomatura en Testing de Software *(en curso)*
+- **UTN** — Diplomatura en Testing de Software *
 - **CFT CENCO** — Técnico Nivel Superior Analista Programador *(Egresado)*
 - **CFT IPROSEC** — Técnico Nivel Superior  en Electricidad *(Titulado)*
 - Certificaciones: Scrum Foundation Professional Certificate (SFPC)
@@ -54,8 +54,8 @@ Colaborador · Testing e2e · [PR #25](https://github.com/fgr-17/webapp-monorepo
 
 ## Experiencia relacionada
 
-**Sitios web WordPress** — actualidad  
-Creación y administración de sitios autogestionables.
+**www.mike88developer.com** — Actualidad  
+Creación y administración de sitios autogestionables, Aplicación de escritorio y moviles.
 
 **Coach vocacional / soft skills** — Axon Training · IPROSEC  
 Comunicación asertiva, acompañamiento en reconversión a IT y trabajo en equipo en entornos ágiles.
