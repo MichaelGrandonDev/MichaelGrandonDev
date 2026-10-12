@@ -1,6 +1,6 @@
 # Michael Grandon
 
-**QA Tester Junior (en formación)**  
+Developer Full Stack - QA Tester Junior **  
 Buenos Aires / Argentina · Abierto a remoto  
 
 [LinkedIn](https://linkedin.com/in/michaelgrandondev/) · [GitHub](https://github.com/MichaelGrandonDev) · michaelgrandon55@gmail.com · +54 2932 537949
@@ -36,7 +36,7 @@ Colaborador · Testing e2e · [PR #25](https://github.com/fgr-17/webapp-monorepo
 | **Testing** | Casos de prueba, bug reporting, smoke / regression, BDD / Gherkin |
 | **Automatización** | Behave, Selenium (e2e), page object (nivel junior), Postman (API) |
 | **Herramientas** | Git, GitHub (Issues / PR), GitHub Actions (CI), Docker, Jira |
-| **Web / datos** | HTML, CSS, JavaScript (básico), SQL (consultas de validación) |
+| **Web / datos** | HTML, CSS, JavaScript (básico), SQL (consultas de validación), C#, UNITY 3D |
 | **Ágil** | Scrum, Kanban |
 
 ---
